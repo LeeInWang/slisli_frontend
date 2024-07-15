@@ -125,7 +125,7 @@
 <summary>접기/펼치기</summary>
   
 YouTube 시연 영상  
-([https://youtube.com/](https://www.youtube.com/watch?v=yFlFfHi0YKM))  
+((https://www.youtube.com/watch?v=yFlFfHi0YKM))  
 </details>
 
 
